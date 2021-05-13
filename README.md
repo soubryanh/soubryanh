@@ -58,4 +58,4 @@
 [platzi]: https://platzi.com
 [twitter]: https://twitter.com/bryanhernandz12
 [instagram]: https://instagram.com/bryanhernandz102
-[linkedin]: https://linkedin.com/in/bryanhernandz102
+[linkedin]: https://linkedin.com/in/bryan-hernandz

@@ -55,7 +55,7 @@
 
 [website]: https://codepen.io/bryanhernandz102
 [page]: https://www.zikoko.com/wp-content/uploads/zikoko/2020/02/stay-tuned.gif
-[platzi]: https://platzi.com
+[platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/bryanhernandz12
 [instagram]: https://instagram.com/bryanhernandz102
 [linkedin]: https://linkedin.com/in/bryan-hernandz

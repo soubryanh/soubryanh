@@ -54,7 +54,7 @@
 
 
 [website]: https://bio.link/bryanhernandz
-[page]: https://www.zikoko.com/wp-content/uploads/zikoko/2020/02/stay-tuned.gif
+[page]: https://personalportfolio.hostman.site/
 [platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/bryanhernandz12
 [instagram]: https://instagram.com/bryanhernandz102

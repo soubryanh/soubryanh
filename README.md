@@ -54,7 +54,7 @@
 
 
 [website]: https://bio.link/bryanhernandz
-[page]: https://personalportfolio.hostman.site/
+[page]: https://bryanhernandz.hostman.site/
 [platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/bryanhernandz12
 [instagram]: https://instagram.com/bryanhernandz102

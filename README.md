@@ -16,7 +16,7 @@
 
 ### Know me better:
 
-[<a target="_blank" href="https://twitter.com/bryanhernandz12" ><img align="left" alt="bryanhernandz12 | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /><a/>][twitter]
+<a target="_blank" href="https://twitter.com/bryanhernandz12" ><img align="left" alt="bryanhernandz12 | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /><a/>
 [<img align="left" alt="bryanhernandz102 | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="bryanhernandz102 | Instagram" width="26px" src="https://w7.pngwing.com/pngs/16/46/png-transparent-made-in-kings-heath-instagram-facebook-female-graphy-instagram-logo-instagram-icon-text-trademark-magenta.png" />][instagram]
 

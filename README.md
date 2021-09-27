@@ -1,6 +1,6 @@
 ### Hey my people, I'm Bryan ✌ [bryanhernandz102][website]
 
-[![Website](https://img.shields.io/website?label=bryanhernandz102.com&style=for-the-badge&url=https%3A%2F%2Fbryanhernandz102.com)](https://codepen.io/bryanhernandz102)
+[![Website](https://img.shields.io/website?label=bryanhernandz102.com&style=for-the-badge&url=https%3A%2F%2Fbryanhernandz102.com)](bryanhernandz102.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bryanhernandz12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanhernandz12&screen_name=bryanhernandz12)
 
 ## I'm a Son,  Cyclist,  Self-taught  and  fulltime Student💚
@@ -16,7 +16,7 @@
 
 ### Know me better:
 
-[<img align="left" alt="bryanhernandz102 | Twitter" width="22px" background-color="#fafafa" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="bryanhernandz102 | Twitter" width="22px" class="fa fa-twitter" aria-hidden="true" />][twitter]
 [<img align="left" alt="bryanhernandz102 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bryanhernandz102 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

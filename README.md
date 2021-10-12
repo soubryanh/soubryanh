@@ -53,7 +53,7 @@
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanhernandz102)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://bio.link/bryanhernandz
+[website]: http://bryanhernandz.bio.link
 [page]: https://bryanhernandz.hostman.site/
 [platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/bryanhernandz12

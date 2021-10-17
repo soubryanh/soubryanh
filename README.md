@@ -12,7 +12,7 @@
 1. 👨‍💻Learn in depth Web Development/Frontend
 2. 🚀Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects
-- 🦄 **Fun fact:** I love plants🌱, ride biking🚵‍♀️ and play videogames👾
+- 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ and play videogames👾
 
 ### Know me better:
 

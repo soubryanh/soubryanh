@@ -5,7 +5,7 @@
 
 ## I'm a Son,  Cyclist,  Self-taught  and  fulltime Student💚
 
-- ✨ I'm planning to deploy my first page here: [sexyPage][page]😂
+- ✨ I'm planning to deploy my first page here: [Portfolio][page]
 - 🌱 I’m currently learning programing from scratch at [Platzi][] 🤓🤭
 - 🤩 I’m looking for great experiences being part of something bigger
 - 🐱‍💻 **2021 Goals:**

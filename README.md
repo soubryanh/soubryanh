@@ -6,9 +6,9 @@
 ## I'm a Son,  Cyclist,  Self-taught  and  fulltime Student💚
 
 - ✨ I'm planning to deploy my first page here: [Portfolio✨][page]
-- 🌱 I’m currently learning programing from scratch at [Platzi][] 🤓🤭
+- 🐱‍💻 I’m currently learning programing from scratch at [Platzi][] 🤓🤭
 - 🤩 I’m looking for great experiences being part of something bigger     
-               🐱‍💻 **2021 Goals:**   
+               🎯 **2021 Goals:**   
 1. 👨‍💻 Learn in depth Web Development/Frontend
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects

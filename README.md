@@ -5,12 +5,12 @@
 
 ## I'm a Son,  Cyclist,  Self-taught  and  fulltime Student💚
 
-- ✨ I'm planning to deploy my first page here: [Portfolio✨][page]
-- 🐱‍💻 I’m currently learning programing from scratch at [Platzi][] 🤓🤭
+- ✨ I have deployed my first landingpage: [Portfolio✨][page]
+- 🐱‍💻 I’m currently learning programing from scratch at [Platzi][]since 2020 🤓🤭
 - 🤩 I’m looking for great experiences being part of something bigger
   
 🎯 **2021 Goals:**
-1. 👨‍💻 Learn in depth Web Development/Frontend
+1. 👨‍💻 Mastering in depth Web Development/Frontend - Backend
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects
 

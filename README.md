@@ -3,14 +3,14 @@
 [![Website](https://img.shields.io/website?label=bryanhernandz102.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/bryanhernandz)](https://bryanhernandz102.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bryanhernandz12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanhernandz12&screen_name=bryanhernandz12)
 
-## I'm a Son,  Cyclist,  Self-taught  and  fulltime Student💚
+## I'm a human,  Cyclist,  Self-taught  and  fulltime Student💚
 
-- ✨ I have deployed my first landingpage: [Portfolio✨][page]
-- 🐱‍💻 I’m currently learning programing from scratch at [Platzi][]since 2020 🤓🤭
+- ✨ I have deployed my first project here 👉 [Portfolio✨][page]
+- 🐱‍💻 I’m currently learning and programing at [Platzi][] 🤓🤭
 - 🤩 I’m looking for great experiences being part of something bigger
   
 🎯 **2021 Goals:**
-1. 👨‍💻 Mastering in depth Web Development/Frontend - Backend
+1. 👨‍💻 Mastering in depth Web Development/Frontend - Backend🚪
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects
 

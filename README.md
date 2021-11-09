@@ -59,5 +59,5 @@
 [page]: https://bryanhernandz102.com/
 [platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/bryanhernandz12
-[instagram]: https://instagram.com/bryanhernandz102
+[instagram]: https://instagram.com/bryanhernandz102/
 [linkedin]: https://linkedin.com/in/bryanhernandz102

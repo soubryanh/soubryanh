@@ -10,7 +10,7 @@
 - 🤩 I’m looking for great experiences being part of something bigger
   
 🎯 **2021 Goals:**
-1. 👨‍💻 Mastering in depth Web Development/Frontend - Backend🚪
+1. 👨‍💻 Mastering in depth Web Development/Frontend🎨 - Backend🚪
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects 🏛️
 

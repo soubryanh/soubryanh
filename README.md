@@ -12,7 +12,7 @@
 🎯 **2021 Goals:**
 1. 👨‍💻 Mastering in depth Web Development/Frontend🎨 - Backend🚪
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
-3. 👨‍👩‍👦‍👦Contribute to build amazing projects🏛️
+3. 👨‍👩‍👦‍👦Contribute to build amazing projects 🏛️
 
 - 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ and watching anime🎭🐲
 

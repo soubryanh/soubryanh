@@ -1,7 +1,7 @@
 ### Hi, people! I'm Bryan ✌ [bryanhernandz102][website]
 
 [![Website](https://img.shields.io/website?label=bryanhernandz102.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/bryanhernandz)](https://bryanhernandz102.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bryanhernandz12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanhernandz12&screen_name=bryanhernandz12)
+[![Twitter Follow](https://img.shields.io/twitter/follow/planticax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanhernandz12&screen_name=bryanhernandz12)
 
 ## I'm an Uncle,  Cyclist,  Self-taught and fulltime Student💚
 

@@ -1,7 +1,7 @@
-### Hi, people! I'm Bryan ✌ [bryanhernandz102][website]
+### Hi, people! I'm Bryan ✌ [bryanhernandz][website]
 
 [![Website](https://img.shields.io/website?label=bryanhernandz.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/bryanhernandz)](https://bryanhernandz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eusoubryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanhernandz12&screen_name=bryanhernandz12)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eusoubryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feusoubryan&screen_name=eusoubryan)
 
 ## I'm an Uncle,  Cyclist,  Self-taught and fulltime Student💚
 
@@ -18,7 +18,7 @@
 
 ### Know me better👀
 
-<a href="https://twitter.com/bryanhernandz12" target="_blank"><img align="left" alt="bryanhernandz12 | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /><a/>
+<a href="https://twitter.com/eusoubryan" target="_blank"><img align="left" alt="eusoubryan | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /><a/>
 [<img align="left" alt="bryanhernandz102 | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="bryanhernandz102 | Instagram" width="26px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />][instagram]
 
@@ -58,7 +58,7 @@
 
 
 [website]: http://bryanhernandz.bio.link
-[page]: https://bryanhernandz102.com/
+[page]: https://bryanhernandz.com/
 [platzi]: https://platzi.com/p/bryanhernandz102/
 [twitter]: https://twitter.com/planticax
 [instagram]: https://instagram.com/bryanhernandz102/

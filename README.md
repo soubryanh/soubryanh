@@ -54,12 +54,12 @@
 
 ### GitHub Stats 🚀
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=plantica&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=soubryan&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://bryanhernandz.bio.link
+[website]: http://eusoubryan.bio.link
 [page]: https://bryanhernandz.com/
-[platzi]: https://platzi.com/p/bryanhernandz102/
+[platzi]: https://platzi.com/p/eusoubryan/
 [twitter]: https://twitter.com/eusoubryan
 [instagram]: https://instagram.com/eusoubryanh/
 [linkedin]: https://linkedin.com/in/eusoubryan

@@ -60,6 +60,6 @@
 [website]: http://bryanhernandz.bio.link
 [page]: https://bryanhernandz.com/
 [platzi]: https://platzi.com/p/bryanhernandz102/
-[twitter]: https://twitter.com/planticax
-[instagram]: https://instagram.com/bryanhernandz102/
-[linkedin]: https://linkedin.com/in/bryanhernandz102
+[twitter]: https://twitter.com/eusoubryan
+[instagram]: https://instagram.com/eusoubryanh/
+[linkedin]: https://linkedin.com/in/eusoubryan

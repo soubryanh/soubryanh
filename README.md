@@ -54,7 +54,7 @@
 
 ### GitHub Stats 🚀 
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=soubryan&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=plantica&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: http://plantica.bio.link

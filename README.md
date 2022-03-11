@@ -1,7 +1,7 @@
 ### Hi, people! I'm Bryan ✌ [bryanhernandz][website]
 
 [![Website](https://img.shields.io/website?label=bryanhernandz.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/bryanhernandz)](https://bryanhernandz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eusoubryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feusoubryan&screen_name=eusoubryan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/planticax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feusoubryan&screen_name=planticax)
 
 ## I'm an Uncle,  Cyclist,  Self-taught and fulltime Student💚
 
@@ -57,9 +57,9 @@
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=soubryan&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://eusoubryan.bio.link
+[website]: http://plantica.bio.link
 [page]: https://bryanhernandz.com/
-[platzi]: https://platzi.com/p/eusoubryan/
-[twitter]: https://twitter.com/eusoubryan
-[instagram]: https://instagram.com/eusoubryanh/
-[linkedin]: https://linkedin.com/in/eusoubryan
+[platzi]: https://platzi.com/p/plantica/
+[twitter]: https://twitter.com/planticax
+[instagram]: https://instagram.com/planticax/
+[linkedin]: https://linkedin.com/in/bryanhernandz

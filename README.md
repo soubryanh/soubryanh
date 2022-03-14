@@ -5,7 +5,7 @@
 
 ## I'm an Uncle,  Cyclist,  Self-taught and fulltime Student💚
 
-- ✨ I have deployed my first project here 👉 [Portfolio✨][page]
+- ✨ I have deployed my main portfolio here 👉 [Portfolio✨][page]
 - 🐱‍💻 I’m currently learning and programing at [Platzi][] 🤓🤭
 - 🤩 I’m looking for great experiences being part of something bigger
   

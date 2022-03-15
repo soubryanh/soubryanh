@@ -16,7 +16,7 @@
 
 - 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ and watching anime🎭🐲
 
-### Know me better👀
+### Know me better👀 
 
 <a href="https://twitter.com/eusoubryan" target="_blank"><img align="left" alt="eusoubryan | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /><a/>
 [<img align="left" alt="bryanhernandz102 | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]

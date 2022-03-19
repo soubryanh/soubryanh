@@ -54,12 +54,12 @@
 
 ### GitHub Stats 🚀 
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=plantica&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=soubryanh&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://plantica.bio.link
+[website]: http://soubryanh.bio.link
 [page]: https://bryanhernandz.com/
-[platzi]: https://platzi.com/p/plantica/
-[twitter]: https://twitter.com/planticax
-[instagram]: https://instagram.com/planticax/
+[platzi]: https://platzi.com/p/soubryanh/
+[twitter]: https://twitter.com/soubryanh/
+[instagram]: https://instagram.com/soubryanh/
 [linkedin]: https://linkedin.com/in/bryanhernandz

@@ -14,7 +14,7 @@
 2. 🚀 Get into the wonderful Tech community of Never Stop Learning
 3. 👨‍👩‍👦‍👦Contribute to build amazing projects 🏛️
 
-- 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ learn new languages and watching anim🐲
+- 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ learn new languages and watching anim🐲 
 
 ### Know me better👀
 

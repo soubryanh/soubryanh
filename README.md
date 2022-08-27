@@ -58,7 +58,7 @@
 
 
 [website]: http://soubryanh.bio.link
-[page]: https://bryanhernandz.com/
+[page]: https://www.bryanhernandz.com/
 [platzi]: https://platzi.com/p/soubryanh/
 [twitter]: https://twitter.com/soubryanh/
 [instagram]: https://instagram.com/soubryanh/

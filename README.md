@@ -7,7 +7,7 @@
 
 - ✨ Feel free to take a look at my portfolio 👉 [Portfolio✨][page]
 - 🐱‍💻 I’m currently learning and programing at [Platzi][] 🤓🤭
-- 🤩 I’m looking for great experiences being part of something bigger
+- 🤩 I’m looking for a role in a competitive company to work on challenging projects
   
 🎯 **2022 Goals:**
 1. 👨‍💻 Mastering in depth Web Development/Frontend🎨 - Backend🚪

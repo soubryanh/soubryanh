@@ -6,13 +6,13 @@
 ## I'm a Freelance Developer, Cyclist, Self-taught and fulltime uncle💚
 
 - ✨ Feel free to take a look at my portfolio 👉 [Portfolio✨][page]
-- 💻 I’m currently learning and programing at [Platzi][] 🤓
+- 💻 I’m a lifelong learner at [Platzi][] 🤓
 - 🤩 I’m looking for a role in a competitive company to work on challenging projects
   
 🎯 **2023 Goals:** 
 1. 👨‍💻 Mastering in depth Web Development/Frontend🎨 - Backend🚪
-2. 🚀 Get into the wonderful Tech community of Never Stop Learning
-3. 👨‍👩‍👦‍👦Contribute to build amazing open-source projects🏛️ 
+2. 🚀 Keep into the wonderful Tech community of Never Stop Learning
+3. 👨‍👩‍👦‍👦 Contribute to build amazing open-source projects🏛️ 
 
 - 🦄 **Fun facts:** I love plants🌱, ride biking🚵‍♀️ learn new languages and watching anime🐲 
 

@@ -1,6 +1,6 @@
 ### Hi, people! I'm Bryan ✌ [bryanhernandz][website]
 
-[![Website](https://img.shields.io/website?label=bryanhernandz.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/)](https://bryanhernandz.com)
+[![Website](https://img.shields.io/website?label=bryanhernandz.com&style=for-the-badge&url=https%3A%2F%2Fbio.link/)](https://www.bryanhernandz.com)
 
 
 ## I'm a Freelance Developer, Cyclist, Self-taught and fulltime uncle💚
